@@ -16,6 +16,7 @@
 7. Start backend (http://localhost:4000)
 
 	Make sure you adjusted the credentials and paths ind the .env and server/config/globals.js file 
+    
 	    cd server/
 	    npm install
 	    nodemon server.js
