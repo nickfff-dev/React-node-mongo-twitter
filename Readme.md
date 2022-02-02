@@ -5,6 +5,7 @@
 5. adjust mongo  db user, db password, db clustername, db collection name in the renamed .env file
 
 6. Start frontend (http://localhost:3000)
+
 	 cd client
 	 npm install
 	 npm start
@@ -13,6 +14,7 @@
 
 
 7. Start backend (http://localhost:4000)
+
 	 Make sure you adjusted the credentials and paths ind the .env and server/config/globals.js file 
 	 cd server/
 	 npm install
