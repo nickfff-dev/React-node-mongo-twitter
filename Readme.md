@@ -6,18 +6,18 @@
 
 6. Start frontend (http://localhost:3000)
 
-	 cd client
-	 npm install
-	 npm start
+	    cd client
+	    npm install
+	    npm start
 
 	 front end will render at http://localhost:3000
 
 
 7. Start backend (http://localhost:4000)
 
-	 Make sure you adjusted the credentials and paths ind the .env and server/config/globals.js file 
-	 cd server/
-	 npm install
-	 nodemon server.js
+	Make sure you adjusted the credentials and paths ind the .env and server/config/globals.js file 
+	    cd server/
+	    npm install
+	    nodemon server.js
 
 	server will run on port 4000
