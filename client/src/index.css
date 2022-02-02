@@ -1,0 +1,78 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  body{
+    background-color: 
+    
+#292f33 ;
+    font-family: "Baloo 2", sans-serif;
+   
+    text-rendering: optimizeLegibility;
+  
+    
+  }
+
+
+
+  .details{
+      font-size: 1.2rem;
+      text-align: center;
+  }
+
+
+  li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+
+ .login{
+     margin-top: 20%;
+     margin-bottom: 20%;
+
+ }
+
+ .welcome{
+     font-size: 40px;
+        font-weight: bold;
+        color: #082B3A;
+ }
+
+ .btn-twitter{
+        background-color: #082B3A;
+        color: white;
+        border-radius: 5px;
+        padding: 10px;
+        border: none;
+        font-size: 1.2rem;
+        margin-top: 10px;
+        margin-bottom: 10px;
+ }
+
+
+ .logout{
+   
+    text-align: center;
+    background-color: white;
+    color: #082B3A;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+ }
+
+
+ .btn:hover{
+    background-color: #1A7684;
+    color: white;
+    
+ }
